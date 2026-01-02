@@ -1,0 +1,13 @@
+{
+    "name": "sva-su/pterodactyl-php-sdk",
+    "description": "PHP SDK for panel Pterodactyl",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.5"
+    },
+    "autoload": {
+        "classmap": ["src/"]
+    },
+    "license": "MIT",
+    "minimum-stability": "stable"
+}

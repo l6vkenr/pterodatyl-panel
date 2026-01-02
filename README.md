@@ -1,1 +1,2 @@
-# pterodatyl-panel
+# Pterodatyl-PHP-SDK
+PHP SDK for panel Pterodactyl
